@@ -1,0 +1,38 @@
+﻿<!doctype html>
+<html>
+<head>
+<!--
+    Trucks page
+   Author: Suzannah Sese-khalid
+   Date:  1/30/2018
+   
+    Filename: Trucks page (individual page).html
+   -->
+   <meta charset="utf-8" />
+   <meta name="Trucks, women, girls" />
+   <title> Homepage </title>
+   <link href=".css" rel="stylesheet" />
+   <link href=".css" rel="stylesheet" media="print" />
+</head>
+
+<body> 
+   <header>
+      <h1><a id="toppage"> Homepage </a></h1>
+
+ <!-- create a link on the bottom to go back to the top -->     
+
+   </header>
+   
+   <article>
+	
+   </article>
+   <aside>
+ 	
+   </aside>
+  
+   <footer>
+      <address>
+      </address>
+   </footer>
+</body>
+</html>
