@@ -1,0 +1,80 @@
+﻿/*
+   Sister Sister events Style Sheet
+   Author: Suzannah Sese-khalid
+   Date:   09/23/2017
+   
+   Filename: Sister Sister_styles.css
+
+*/
+
+
+
+/* HTML and Body Styles */
+
+Html {
+	 
+}
+
+body > article {
+	margin-left: 30%;
+	font-family: 'Lucida Sans Unicode';
+	font-size: 3em;
+	font-weight: bold; 
+	padding-bottom: 10%;
+}
+
+
+
+/* Heading Styles */
+  
+
+body > article {
+	
+} 
+
+
+/* Aside and Blockquote Styles */
+
+body > aside {
+	color: black;
+	text-decoration: none;
+	margin-left: 20%;
+}
+
+body > aside.pricing {
+	margin-left: 60%;
+}
+
+
+/* Navigation Styles */	
+
+
+
+
+/* List Styles */
+
+
+
+
+
+/* Footer Styles */
+ 
+body > footer > address {
+	
+}
+	
+body > footer {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
